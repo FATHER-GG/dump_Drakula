@@ -1,11 +1,11 @@
 # DUMP 
 
 
-git clone https://github.com/FATHER-GG/DUMP 
+git clone https://github.com/FATHER-GG/dump_Drakula
 
 
 
-cd DUMP 
+cd dump_Drakula
 
 
-python Dump.py
+python dump.py
